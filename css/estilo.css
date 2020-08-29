@@ -1,0 +1,8 @@
+@media (min-width:577px) {
+    .oculto {
+        display: none;
+    }
+}
+#art1, #art2, #art3 {
+    margin-bottom: 30px;
+}
